@@ -119,7 +119,3 @@ class resource():
 
         else:
             return None
-
-
-test = resource()
-test.send("j.tauler2021@jamesrumsey.net", subject="HI")
